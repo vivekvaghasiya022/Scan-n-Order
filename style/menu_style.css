@@ -1,0 +1,63 @@
+
+  #add{
+      position: relative;
+      font-weight: bold;
+      font-size: 15px;
+      line-height: 1.2;
+      background-color: white;
+      border: 1px solid #60b246;
+      color:#60b246;
+      cursor: pointer; 
+      outline: none;
+      padding: 15px 20px;
+  }
+body{
+    font-family: sans-serif;
+    background: #d0d5db;    
+}
+//aa file nu kai apply thatu j nathi folder ma hoy to,hmm
+h2{
+    position: relative;
+    text-align: center;
+    bottom: -10px;
+}
+tr{
+    background: white;
+}
+table{
+    position: relative;
+    margin: auto;
+    border-collapse: separate;
+    background: #fff;
+    border-radius: 5px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+tr:nth-child(2n) {
+    background: #f0f3f5;
+  }
+td {
+    padding: 20px;
+    text-align: center;
+    vertical-align:middle;
+    font-size: 20px;
+  }
+  #price{
+      position: relative;
+      font-size: 20px;
+      font-family: sans-serif;
+      color: rgb(83, 86, 101);
+  }
+
+#add:focus{
+    background: #60b246;
+    color: white;
+}
+.form-control{
+    text-align: center;
+    font-size: 20px;
+}
+
+table{
+    text-align: center;
+}
