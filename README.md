@@ -10,3 +10,7 @@ Developed this system using :
 - Bootstrap
 
 This web application deployed on XAMPP local server. 
+
+- Main Page 
+
+![](ScreenShots/index.PNG)
