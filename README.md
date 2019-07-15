@@ -8,3 +8,5 @@ Developed this system using :
 - JavaScript
 - PHP
 - Bootstrap
+
+This web application deployed on XAMPP local server. 
